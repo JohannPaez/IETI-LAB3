@@ -16,14 +16,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Enunciado
 El enunciado del laboratorio está disponible [aquí](https://github.com/ieti-eci/1.3-react-js-task-planner-part1).
 
-## Autor
-Johann Sebastian Páez Campos - Laboratorio 02 IETI 27/08/2020
-
 ## Despliegue Heroku
 [Heroku App](https://serene-shore-65107.herokuapp.com/).
 
 ## Despliegue en Azure
 [Azure App](https://storageietilab3.z13.web.core.windows.net/).
+
+## Autor
+Johann Sebastian Páez Campos - Laboratorio 02 IETI 27/08/2020
+
 
 ## Available Scripts
 
