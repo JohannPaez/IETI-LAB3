@@ -1,5 +1,30 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Comandos 
+  Para descargar las dependencias: ```npm install```
+  
+  Para ejecutar la aplicación: ```npm start```
+  
+  
+  **IMPORTANTE:** Para poder utilizar el aplicativo es necesario instalar las dependencias primero con el comando **npm install**.
+## Datos de Logeo
+
+**Correo**: johann.paez@mail.escuelaing.edu.co
+
+**Contraseña**: Prueba123@
+
+## Enunciado
+El enunciado del laboratorio está disponible [aquí](https://github.com/ieti-eci/1.3-react-js-task-planner-part1).
+
+## Autor
+Johann Sebastian Páez Campos - Laboratorio 02 IETI 27/08/2020
+
+## Despliegue Heroku
+[Heroku App](https://serene-shore-65107.herokuapp.com/).
+
+## Despliegue en Azure
+[Azure App](https://storageietilab3.z13.web.core.windows.net/).
+
 ## Available Scripts
 
 In the project directory, you can run:
